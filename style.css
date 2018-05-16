@@ -19,7 +19,7 @@ img{
 
 
 #example1 {
-    padding: 15px;
+    padding: 50px;
     background: linear-gradient(to bottom right, rgb(255,255,1), rgb( 255,239,213),rgb(255,255,1));
     background-clip: content-box;
     color: black;
