@@ -1,0 +1,83 @@
+body { background-image: url("design1.jpg"), url("design2.jpg");
+    background-repeat: repeat-y, repeat-y;
+    background-position: left, right;
+	
+	
+	
+	padding: 0.2em 1em 0.2em 1em;
+	
+	padding:15px;
+	
+	
+}
+img{
+       display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+#example1 {
+    padding: 15px;
+    background: linear-gradient(to bottom right, rgb(255,255,1), rgb( 255,239,213),rgb(255,255,1));
+    background-clip: content-box;
+    color: black;
+   margin: 0em 19.2em 0em 19.2em;
+
+
+	
+}
+
+
+
+h1 {
+	color: black; 
+	text-align: center;
+ 	
+}
+#p1 {
+	
+	font-family: verdana;
+	text-align: left;
+	
+}
+#p2 {
+	;
+	font-family: times new roman;
+	text-align: right;
+	font-size: 110%
+	
+}
+#p3 {
+	
+	font-family: garamond;
+	text-align: left;
+	font-size: 115%
+		
+}
+#p4 {
+	
+	font-family: lucida console;
+	text-align: right;
+		
+}
+#p5 {
+	
+	font-family: comic sans ms;
+	text-align: left;
+	font-size: 110%
+
+}
+#p6 {
+	
+	font-family: ariel;
+	text-align: center;
+	font-size: 130%
+	
+}
+#example2 {
+	margin: 0em 19em 0em 19em;
+	
+}
+
